@@ -9,6 +9,7 @@
   "author": "Angie Battillo",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.4",
     "inquirer": "^8.2.0"
   },
   "devDependencies": {
